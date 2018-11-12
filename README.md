@@ -12,5 +12,5 @@ Control your smartcar from hand movement
  * Braedboard
  
  
- It's very easy to make get all components. You can visit [link to Google!](https://iotwebplanet.com)
+ It's very easy to make get all components. You can visit [IOTWEBPLANET!](https://iotwebplanet.com)
 
