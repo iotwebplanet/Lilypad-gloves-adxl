@@ -9,7 +9,7 @@ Control your smartcar from hand movement
  * 9v Battery
  * L293D IC
  * Plain PCB
- * Braedboard
+ * Breadboard
  
  
  It's very easy to make get all components. You can visit [IOTWEBPLANET!](https://iotwebplanet.com)
