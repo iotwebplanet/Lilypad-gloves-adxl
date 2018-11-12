@@ -1,4 +1,7 @@
 # Lilypad-gloves-adxl
+
+![GitHub Logo](/lillypad-arduino.jpg)
+
 Control your smartcar from hand movement 
 # Component 
  * Arduino Uno R3
