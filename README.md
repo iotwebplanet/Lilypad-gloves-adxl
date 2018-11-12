@@ -13,6 +13,7 @@ Control your smartcar from hand movement
  * L293D IC
  * Plain PCB
  * Breadboard
+ * ADXL343 Sensor
  
  
  It's very easy to make get all components. You can visit [IOTWEBPLANET!](https://iotwebplanet.com)
